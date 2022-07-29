@@ -11,7 +11,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 jsonschema==3.1.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==7.2.0
 pkg-resources==0.0.0
 pyrsistent==0.15.5
